@@ -80,7 +80,7 @@ ENV PHP_USER_ID=33 \
     COMPOSER_ALLOW_SUPERUSER=1
 
 # Add configuration files
-COPY dockerfolder/web-container-root/ /
+COPY phpweb.conf/ /
 
 # Add GITHUB_API_TOKEN support for composer
 RUN chmod 700 \

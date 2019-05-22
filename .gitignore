@@ -1,0 +1,8 @@
+# apogee yii2 docker project
+
+# persistent database folder
+dbdata 
+
+# yii2 source folder can be pulled from other git
+# or initialize using composer
+apogee-phpyii2
