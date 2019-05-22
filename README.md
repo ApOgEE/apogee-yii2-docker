@@ -1,4 +1,5 @@
-## My Initial Docker Setup For Yii2 Development
+## ApOgEE Docker Container Setup For Yii2 Development
+![apogee](notes/badges/apogee-yii2-docker.svg)
 
 I'll be adding Docker compose file to simplify my task here.
 
